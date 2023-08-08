@@ -102,10 +102,6 @@ What these experiments *do* show is the efficacy of these design selections. Wit
 
 ------
 
-### Contact information 
-
-For any communication relating to this project, please email us at contact@thetaprime.io.
-
 [ThetaPrimo.IO]: https://thetaprime.io	"ThetaPrime.IO"
 
 ![](thetaprime_shape.png)
